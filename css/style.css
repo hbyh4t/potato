@@ -55,13 +55,10 @@ img {
   transition: 1s cubic-bezier(0.215, 0.61, 0.355, 1);
 }
 .btn:hover {
-  /* background-color: #0090aa; */
-  background-color: #fff;
-  opacity: 0;
-  /* background-color: rgba(f,f,f,1); */
+  background-color: #0090aa;
   /* rotate: -500deg; */
   /* scale: 1.2; */
-  translate: 0px 50px;
+/*   translate: 0px 50px; */
 }
 /* iframe */
 iframe{
