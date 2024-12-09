@@ -349,6 +349,12 @@ iframe{
     height: 94.5%;
     width: 100%;
   }
+  .potato{
+    transition:2s;
+  }
+  .potato:cover{
+    rotato: 500deg;
+  }
   /* CONTACT */
   .cover-contact{
     background-image: url(../images/cover-contact-l.webp);
