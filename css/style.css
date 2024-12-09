@@ -349,10 +349,10 @@ iframe{
     height: 94.5%;
     width: 100%;
   }
-  .potato{
+  .potato a{
     transition:2s;
   }
-  .potato:cover{
+  .potato a:cover{
     rotato: 500deg;
   }
   /* CONTACT */
