@@ -353,7 +353,7 @@ iframe{
     transition:2s;
   }
   .potato:cover{
-    rotato: 500deg;
+    transform: rotato(500deg);
   }
   /* CONTACT */
   .cover-contact{
